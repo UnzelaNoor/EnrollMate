@@ -1,0 +1,85 @@
+{
+  "University_Name": "NovaTech University of Computing & AI",
+
+  "Admission_Process": [
+    "Online application submission via university portal",
+    "Upload required documents",
+    "Pay application processing fee",
+    "Appear in the entry test",
+    "Attend interview (if shortlisted)",
+    "Merit list announcement",
+    "Fee submission & enrollment"
+  ],
+
+  "Programs_Offered": {
+    "bs": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Data Science",
+      "Software Engineering"
+    ],
+    "ms": [
+      "Computer Science",
+      "Artificial Intelligence"
+    ]
+  },
+
+  "Eligibility": {
+    "undergraduate": "Minimum 60% in A levels or intermediate from a recognized board. Mathematics is mandatory. Pre-medical students must complete the Math deficiency course.",
+    "postgraduate": "Minimum 2.5 CGPA in a relevant bachelor's degree."
+  },
+
+  "EntryTest_Details": {
+    "format": "MCQs",
+    "duration_minutes": 90,
+    "subjects": {
+      "mathematics": 40,
+      "logical_reasoning": 30,
+      "basic_english": 30
+    },
+    "passing_score_percent": 50
+  },
+
+  "Fee_Structure": {
+    "undergraduate_programs": {
+      "admission_fee_one_time": 25000,
+      "semester_fee_range": "140,000 – 160,000",
+      "registration_fee": 10000
+    },
+    "graduate_programs": {
+      "admission_fee_one_time": 30000,
+      "semester_fee_range": "180,000 – 200,000"
+    }
+  },
+
+  "Scholarships_Financial_Aid": {
+    "bs": [
+      "Merit-based scholarships (25% tuition fee waiver for students with 85%+ marks)",
+      "Need-based scholarships (limited seats)"
+    ],
+    "ms": "No scholarships for first semester MS students"
+  },
+
+  "Required_Documents": [
+    "Academic transcripts",
+    "CNIC / B-Form",
+    "Passport (international students)",
+    "2 passport-size photographs",
+    "Paid challan copy"
+  ],
+
+  "International_Students": {
+    "eligible": true,
+    "documents_required": [
+      "Passport",
+      "Equivalence certificate"
+    ],
+    "instruction_language": "English"
+  },
+
+  "Contact_Information": {
+    "email": "admissions@novatech.edu.pk",
+    "phone": "+92-51-1234567",
+    "office_hours": "9 AM – 5 PM (Mon–Fri)"
+  }
+}
